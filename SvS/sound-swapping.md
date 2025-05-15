@@ -5,7 +5,7 @@
 - [VGAudio Application](https://github.com/Thealexbarney/VGAudio) to convert your WAV file to HCA
 - [CPK Patcher](https://github.com/mosamadeeb/CpkPatcher) to patch the SOUND.CPK file
 
-## Steps to add custom sounds
+## Steps to replace existing sounds
 Go to where your SvS installation is. Easiest way is to right click the game on steam, go to properties, local files, then browse. Once you're there, go into ``neptunia-sisters-vs-sisters_Data\StreamingAssets\CPK``. Once there, right click your SOUND.CPK file, and make a copy and store it somewhere else. In the event something goes wrong you can use that backup to restore it easily. Alternatively, you can re-verify files on steam.
 
 Next, Use Noesis to extract the CPK files, and find a place to store them. Now, enter where the files got extracted, then go into ``Assets\Project\AppData\Game\Sound\Bgm``. This is where the BGM files exist. 
