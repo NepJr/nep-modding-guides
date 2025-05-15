@@ -10,7 +10,7 @@ Go to where your SvS installation is. Easiest way is to right click the game on 
 
 Next, Use Noesis to extract the CPK files, and find a place to store them. Now, enter where the files got extracted, then go into ``Assets\Project\AppData\Game\Sound\Bgm``. This is where the BGM files exist. 
 
-Currently, I don't have a table setup to tell you which HCA file is what song. 001 is the main menu and 002 is the world map theme. If you want to give them a listen, foobar2000 with the vgmstream plugin can play them back so you can identify them. This tutorial will cover replacing the main menu theme as its the easiest to test.
+Now, find a song you want to replace [here](https://github.com/NepJr/nep-modding-guides/blob/main/SvS/data/music-list.md). This tutorial will only cover the main menu theme however, as it's the easiest to quickly test
 
 Now, get a song to replace the main menu theme. You need to save it as a WAV file.
 
